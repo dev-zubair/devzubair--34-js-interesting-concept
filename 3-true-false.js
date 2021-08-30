@@ -11,11 +11,12 @@ NAN
 --------------------
 Truthy:
 truth
-any number (positive or Nagative)
+any number (positive or Negative)
 any string including single whitespace (as like = " " or "0")
 []
 {}
 Anything else that is not falsy will be TRUTHY
+
 ---------
 */
 
